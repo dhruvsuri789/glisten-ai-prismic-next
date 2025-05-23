@@ -1,0 +1,20 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Reprehenderit aute do quis et nisi sint aliqua magna anim minim ad id. Laborum quis enim sit dolor consequat excepteur labore excepteur."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
