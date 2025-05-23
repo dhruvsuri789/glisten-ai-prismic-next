@@ -1,0 +1,102 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Children"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Sit sunt enim deserunt sunt nostrud incididunt non sint excepteur commodo voluptate id ea est pariatur. Nisi sunt Lorem quis enim laborum laboris elit tempor et elit. Voluptate eu consequat est sunt Lorem consectetur veniam occaecat."
+						}
+					}
+				]
+			},
+			"card": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Stage"
+											}
+										}
+									]
+								}
+							],
+							[
+								"body",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Ad exercitation ullamco adipisicing sit dolor. Occaecat reprehenderit dolore occaecat ex ullamco ad esse reprehenderit excepteur."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1589321599763-d66926c29613",
+										"width": 3168,
+										"height": 4752
+									},
+									"url": "https://images.unsplash.com/photo-1589321599763-d66926c29613",
+									"width": 3168,
+									"height": 4752,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"alt": "primitive",
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"wide",
+								{
+									"__TYPE__": "BooleanContent",
+									"value": false
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
