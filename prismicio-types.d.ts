@@ -102,6 +102,7 @@ export type CaseStudyDocument<Lang extends string = string> = prismic.PrismicDoc
 >;
 
 type PageDocumentDataSlicesSlice =
+  | RichTextSlice
   | CallToActionSlice
   | IntegrationsSlice
   | CaseStudiesSlice
