@@ -1,4 +1,4 @@
-export default function LogoMark() {
+export default function PlainLogo() {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 91 82" className="w-24">
       <path

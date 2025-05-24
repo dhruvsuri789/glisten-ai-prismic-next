@@ -41,6 +41,7 @@ const Integrations: FC<IntegrationsProps> = ({ slice }) => {
           fill
           className="object-cover"
           quality={90}
+          priority={false}
         />
       </div>
 
