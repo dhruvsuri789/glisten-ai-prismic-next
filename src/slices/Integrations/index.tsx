@@ -34,13 +34,16 @@ const Integrations: FC<IntegrationsProps> = ({ slice }) => {
       data-slice-variation={slice.variation}
       className="relative overflow-hidden"
     >
-      <Image
-        src={background}
-        alt="Integrations bakground image"
-        fill
-        className="object-cover"
-        quality={90}
-      />
+      <div className="absolute inset-0">
+        <Image
+          src={background}
+          alt="Integrations bakground image"
+          fill
+          className="object-cover"
+          quality={90}
+        />
+      </div>
+
       <StarBackground />
       <div className="relative">
         <h2 className="mx-auto max-w-2xl text-center text-5xl font-medium text-balance md:text-7xl">
